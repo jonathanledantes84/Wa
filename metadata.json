@@ -1,0 +1,8 @@
+{
+  "name": "Clientum",
+  "description": "Multi-tenant SaaS WhatsApp CRM integrated with lead management, live WhatsApp inbox, automated campaigns, template builder, AI smart replies, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
